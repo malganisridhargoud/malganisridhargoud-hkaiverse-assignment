@@ -1,0 +1,53 @@
+semester,course_code,course_title,credits,transcription_note,official_verification_status
+1,MA101,Linear Algebra and Ordinary Differential Equations,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+1,EG101,English Language Skills,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+1,MT101,Digital Fabrication,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+1,PH101,Physics,5,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+1,CH101,Chemistry,4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+1,CS101,Computer Programming,4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+1,HS101,Essence of Indian Traditional Knowledge,0,Visible; audit course marked no credits,Transcribed from user-provided photo; batch version not verified
+2,MA102,Higher Calculus,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+2,EG102,Professional Communication,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+2,EC101,Basic Electronics,4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+2,DS101,Introduction to DS and AI,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+2,CH102,Environmental Sciences,2,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+2,CS102,Data Structures,4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+2,MT102,Engineering Graphics,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+3,EC201,Introduction to IoT,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+3,CS201,Object Oriented Programming Concepts,4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+3,MA201,Integral Transforms and Probability & Statistics,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+3,CS202,Theory of Computation,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+3,CS203,Design and Analysis of Algorithms,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+3,MG201,Engineering Economics and Management,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+3,MA202,Discrete Mathematics,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+3,CR201,Power Skills – I,1,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+4,EC102,Fundamentals of Signal Processing,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+4,CS204,Computer Organization and Architecture,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+4,HSXXX,Digital Humanities Elective,3,Course code shown as HSXXX,Transcribed from user-provided photo; batch version not verified
+4,CS205,Web Enabled Technologies (Web 3.0),4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+4,DS202,Industry coding practice (Python/R),3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+4,DS203,Data Science,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+4,CS206,Database Management System,4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+4,CR202,Power Skills – II,1,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+5,CS301,Principles of Cryptography,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+5,CS302,Operating Systems,4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+5,CS303,Programming Language and Compiler Construction,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+5,DS304,Machine Learning,4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+5,CS304,Software Engineering,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+5,CSXXX,Elective (Core),3,Course code/title unspecified beyond elective,Transcribed from user-provided photo; batch version not verified
+5,CR301,Power Skills – III,1,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+6,CS305,Computer Vision,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+6,CS306,Computer Networks,4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+6,DS307,Big Data Systems,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+6,CS307,Cloud Computing,4,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+6,CSXXX,Elective (Core),3,Course code/title unspecified beyond elective,Transcribed from user-provided photo; batch version not verified
+6,SP301,Special Project,3,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+6,CR302,Power Skills – IV,1,Visible in supplied photo,Transcribed from user-provided photo; batch version not verified
+7,IP401,Internship Program / Research,,Semester VII bundle shown as 15 credits; individual course allocation not legible,Transcribed from user-provided photo; batch version not verified
+7,TS401,Thesis & Seminar,,Semester VII bundle shown as 15 credits; individual course allocation not legible,Transcribed from user-provided photo; batch version not verified
+7,ELECTIVE-BUNDLE,Electives (2) + Professional/Discipline (2),,Semester VII bundle shown as 15 credits; per-course credits not legible,Transcribed from user-provided photo; batch version not verified
+7,DH-ELECTIVE,Digital Humanities Elective (1),,Semester VII bundle shown as 15 credits; per-course credits not legible,Transcribed from user-provided photo; batch version not verified
+8,IP401,Internship Program / Research,,Semester VIII bundle shown as 15 credits; individual course allocation not legible,Transcribed from user-provided photo; batch version not verified
+8,TS401,Thesis & Seminar,,Semester VIII bundle shown as 15 credits; individual course allocation not legible,Transcribed from user-provided photo; batch version not verified
+8,ELECTIVE-BUNDLE,Electives (2) + Professional/Discipline (2),,Semester VIII bundle shown as 15 credits; per-course credits not legible,Transcribed from user-provided photo; batch version not verified
+8,DH-ELECTIVE,Digital Humanities Elective (1),,Semester VIII bundle shown as 15 credits; per-course credits not legible,Transcribed from user-provided photo; batch version not verified

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>B.Tech CSE Course Comparison — Proposal</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><p class="eyebrow">HKAIVERSE ROUND 2 · TASK 2</p><h1>Course & Credit Explorer</h1><p>This small local tool compares selected current courses with proposed actions. It uses the supplied curriculum photo and student-proposed changes, not an official revised syllabus.</p></header>
+<main>
+<section class="controls" aria-label="Filters">
+<label>Semester <select id="semester"><option value="all">All semesters</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option></select></label>
+<label>Action <select id="action"><option value="all">All actions</option><option>KEEP</option><option>UPDATE</option><option>REDUCE</option><option>ADD</option></select></label>
+<label>Search course <input id="search" type="search" placeholder="e.g. DBMS, cloud"></label>
+</section>
+<section class="summary" aria-live="polite"><article><span>Courses shown</span><strong id="count">0</strong></article><article><span>Current credits shown*</span><strong id="credits">0</strong></article><article><span>Proposed change</span><strong>Assessment-first</strong></article></section>
+<p class="note">*Only visible course-level credits are counted. Final-year bundled credits and the photo's 162-vs-163 discrepancy are excluded from this filter total. Updates usually keep the same credit value; REDUCE rows are conditional and ADD rows may use approved elective space.</p>
+<div class="table-wrap"><table><thead><tr><th>Sem.</th><th>Code</th><th>Course</th><th>Current credits</th><th>Action</th><th>Proposal / reason</th></tr></thead><tbody id="rows"></tbody></table></div>
+<section class="calculator"><h2>Programme credit check</h2><p>Semester totals transcribed from the image:</p><div class="totals" id="totals"></div><p><strong>Sum of semester totals:</strong> <span id="sum"></span> credits. <strong>Printed grand total appears to be 163.</strong> The difference is flagged for official verification, not automatically resolved.</p><label>Credits affected by proposal <input id="affected" type="number" min="0" value="36"></label><p>Share of 163-credit printed total: <strong id="share"></strong>. Target band in brief: 20–25%.</p></section>
+<footer><p>Educational planning aid only. Verify the applicable batch curriculum, course outcomes, elective combinations, prerequisites and regulations before proposing formal changes.</p></footer>
+</main><script src="script.js"></script>
+</body></html>

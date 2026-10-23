@@ -1,0 +1,16 @@
+flowchart TD
+    A[Staff opens mobile issue form] --> B[Check or scan approved borrower ID]
+    B --> C[Scan or enter book code]
+    C --> D{Required data valid and eligible?}
+    D -- No --> E[Show correction or policy reason]
+    E --> C
+    D -- Yes --> F[Calculate due date from approved policy]
+    F --> G[Staff confirms issue]
+    G --> H[Save ISSUED record and audit event]
+    H --> I[Show or print due date]
+    H --> J[Attempt approved reminder]
+    J --> K{Reminder succeeds?}
+    K -- Yes --> L[Reminder recorded]
+    K -- No --> M[Log failure; receipt/manual fallback]
+    I --> N[Return recorded by staff]
+    N --> O[Status RETURNED]

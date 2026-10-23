@@ -1,0 +1,10 @@
+flowchart TD
+    A[Borrower presents ID card and book] --> B[Staff checks or scans ID]
+    B --> C{Borrower and book eligible?}
+    C -- No --> D[Explain issue and follow library policy]
+    C -- Yes --> E[Issue record step - exact method unknown]
+    E --> F[Staff writes due date on book]
+    F --> G[Borrower leaves and remembers date]
+    G --> H[Book returned at counter]
+    H --> I[Staff checks book and records return - assumed]
+    I --> J[Issue closed]

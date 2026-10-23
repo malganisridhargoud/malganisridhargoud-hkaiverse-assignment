@@ -1,0 +1,15 @@
+semester,baseline_credit_total_visible,proposal_change,proposed_credit_total,net_effect_vs_baseline,notes
+I,22,No change,22,0,Semester totals taken from the photographed curriculum table; official version not yet confirmed.
+II,22,No change,22,0,Semester totals taken from the photographed curriculum table; official version not yet confirmed.
+III,23,No change,23,0,Semester totals taken from the photographed curriculum table; official version not yet confirmed.
+IV,23,No change,23,0,Semester totals taken from the photographed curriculum table; official version not yet confirmed.
+V,21,Assessment update only,21,0,Course-level changes are to learning outcomes and assessment depth, not to the semester total.
+VI,21,Assessment update + elective-space proposal,21,0,Proposed adjustments are intended to be implemented through existing course assessments and approved elective space.
+VII,15,Conditional elective/assessment realignment,15,0,Final-year bundled credits remain provisional because individual allocations are not legible in the photo.
+VIII,15,Conditional elective/assessment realignment,15,0,Final-year bundled credits remain provisional because individual allocations are not legible in the photo.
+TOTAL_VISIBLE,162,Provisional affected scope approx. 36,162,0,"The printed curriculum page appears to say 163, but the visible semester totals add to 162. This file preserves the visible totals and explicitly keeps the discrepancy unresolved."
+CORE_ELECTIVE_A,3,Reduce one credit if duplicate content is confirmed,2,-1,"Conditional only. The elective title and exact content are not visible in the supplied photo, so the reduction is not automatic."
+CORE_ELECTIVE_B,3,Reduce one credit if duplicate content is confirmed,2,-1,"Conditional only. Apply only after direct comparison to the official syllabus and regulation rules."
+WORKFLOW_LAB,0,Proposed new lab in approved elective space,4,4,"Target 4 credits only if approved by the curriculum committee and implemented within elective space rather than as an additional programme-wide requirement."
+SAFE_DELIVERY_MODULE,0,Embed in existing Software Engineering / coding-practice delivery,0,0,"Preferred implementation avoids increasing total credits. If a credit increase is proposed, it must be offset by an approved replacement."
+TOTAL_AFFECTED_SCOPE_PROVISIONAL,162,"36 credits of course/assessment scope affected; each credit counted once; total is intended to remain constant",162,0,"This is a provisional planning number based on the visible curriculum and proposal; it must be recalculated against the official batch version before final submission."

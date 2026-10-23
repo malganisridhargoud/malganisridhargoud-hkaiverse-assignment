@@ -1,0 +1,12 @@
+metric,low_case,base_case,high_case,unit,classification_or_formula
+Monthly issues,150,300,450,issues/month,Assumption; not measured
+Current issue handling,2,2,2,minutes/issue,Assumption
+Current additional query/rework,0.25,0.5,0.75,minutes/issue,Assumption
+Current monthly effort,=B2*(B3+B4),=C2*(C3+C4),=D2*(D3+D4),minutes/month,Volume × (handling + rework)
+Proposed handling,1.5,1.5,1.5,minutes/issue,Assumption
+Proposed support/review,60,60,60,minutes/month,Assumption
+Proposed monthly effort,=B2*B6+B7,=C2*C6+C7,=D2*D6+D7,minutes/month,Volume × proposed handling + support
+Net monthly savings,=B5-B8,=C5-C8,=D5-D8,minutes/month,Current effort − proposed effort
+Net monthly savings hours,=B9/60,=C9/60,=D9/60,hours/month,Minutes ÷ 60
+One-time setup/training,8,8,8,hours,Assumption
+Simple payback,=B11/B10,=C11/C10,=D11/D10,months,Setup hours ÷ net hours saved/month

@@ -1,0 +1,8 @@
+evidence_id,date,item,classification,basis_or_method,sample_size,finding_or_value,limitation
+E1,2026-10-23,ID card checked/scanned before issue; return-validity date written on book,Scenario supplied by author; not independently observed,User-provided task description,Not applicable,Manual ID check/scan and handwritten date are described as current process,Does not establish exact local policy or all steps
+E2,2026-10-23,Availability check before issue,Assumption,Plausible control included in process model,0 observed cases,Model assumes staff checks item availability,Must be verified with permission
+E3,2026-10-23,Return is checked and recorded,Assumption,Plausible process step,0 observed cases,Model assumes staff closes issue on return,Actual record method unknown
+E4,2026-10-23,300 issues/month,Assumption for calculation only,Illustrative scenario chosen to make arithmetic explicit,No real sample,Used in base-case ROI model,Replace with permitted measured count
+E5,2026-10-23,2.0 minutes issue handling + 0.5 minutes query/rework per issue,Assumption for calculation only,"Illustrative estimate, not timed",No real sample,Used in base-case current effort,Measure actual time before deployment
+E6,2026-10-23,Proposed handling 1.5 minutes/issue + 60 minutes/month support,Assumption for calculation only,Illustrative estimate of proposed-state effort,No prototype test,Used in net savings calculation,Validate with a pilot or time study
+E7,2026-10-23,No direct observation/interview,Access limitation,No permissioned field evidence supplied for this draft,0,Report remains explicitly hypothetical,Seek permission if time allows; accept refusal
