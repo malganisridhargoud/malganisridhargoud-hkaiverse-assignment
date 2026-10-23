@@ -140,18 +140,3 @@ The relevant access log is maintained in:
 
 The source register includes the curriculum photo and the public job pages used for the audit. The package does not claim any private college documents or internal faculty records.
 
-## 10. Final reviewer checklist
-
-Before submitting the final package or entering the GitHub submission link, a reviewer should confirm:
-
-- [ ] The official curriculum document for the exact programme, branch, admission batch and regulation has been verified.
-- [ ] The course map has been checked against the official university syllabus.
-- [ ] The 162-vs-163 discrepancy has been explicitly resolved or retained as a flagged discrepancy.
-- [ ] Credit reductions are tied to an actual identified elective and a regulated replacement plan.
-- [ ] The proposal keeps the overall programme total unchanged or clearly states the approved exception.
-- [ ] At least three dated job postings support the skills claims and are not misrepresented as fresher roles.
-- [ ] AI records include prompt, model, date, output summary and verification evidence.
-- [ ] README release URLs and commit url are completed after the repository is pushed and released.
-- [ ] All relative links work in the final submission package.
-
-
