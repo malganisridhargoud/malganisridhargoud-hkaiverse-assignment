@@ -140,3 +140,13 @@ The relevant access log is maintained in:
 
 The source register includes the curriculum photo and the public job pages used for the audit. The package does not claim any private college documents or internal faculty records.
 
+## 10. GitHub repository, release and commit metadata
+
+This repository has been published to GitHub and the final submission links are recorded below for auditability.
+
+- Repository URL: https://github.com/malganisridhargoud/malganisridhargoud-hkaiverse-assignment
+- Release URL: https://github.com/malganisridhargoud/malganisridhargoud-hkaiverse-assignment/releases/tag/round2-submission-v1.0
+- Full commit URL: https://github.com/malganisridhargoud/malganisridhargoud-hkaiverse-assignment/commit/f238fc540805273f10af072cb8aafcdc5654a1fc
+
+> The recruitment portal should use the repository URL only, while the release and commit URLs remain as audit evidence.
+
