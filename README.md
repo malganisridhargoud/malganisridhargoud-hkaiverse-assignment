@@ -13,7 +13,37 @@ This package contains two separate assignments.
 
 The draft is structurally strong and already separates the tasks, captures five synthetic workflow tests, records its assumptions, and discloses the curriculum discrepancy. The main improvements added here are stronger evidence traceability: an official curriculum verification note, a credit reconciliation file, a set of AI exercise transcripts, and a job-evidence record that distinguishes dated public postings from seniority-limited roles.
 
-## 2. Repository structure and navigation
+## 2. Assignment overview
+
+This repository contains both assignments in one place, with each report linked directly to its supporting evidence.
+
+### Assignment 1 — library workflow redesign
+
+- Report: [task-1-college-workflow/report.md](task-1-college-workflow/report.md)
+- Current workflow: [task-1-college-workflow/current-workflow.mmd](task-1-college-workflow/current-workflow.mmd)
+- Proposed workflow: [task-1-college-workflow/proposed-workflow.mmd](task-1-college-workflow/proposed-workflow.mmd)
+- Evidence log: [task-1-college-workflow/evidence-log.csv](task-1-college-workflow/evidence-log.csv)
+- Test cases: [task-1-college-workflow/test-cases.csv](task-1-college-workflow/test-cases.csv)
+- Time savings: [task-1-college-workflow/time-savings.csv](task-1-college-workflow/time-savings.csv)
+- Data model: [task-1-college-workflow/data-model.md](task-1-college-workflow/data-model.md)
+- Limitations: [task-1-college-workflow/limitations.md](task-1-college-workflow/limitations.md)
+
+### Assignment 2 — curriculum audit and redesign
+
+- Report: [task-2-curriculum-audit/report.md](task-2-curriculum-audit/report.md)
+- Course map: [task-2-curriculum-audit/course-map.csv](task-2-curriculum-audit/course-map.csv)
+- Curriculum proposal: [task-2-curriculum-audit/curriculum-proposal.csv](task-2-curriculum-audit/curriculum-proposal.csv)
+- Credit reconciliation: [task-2-curriculum-audit/credit-reconciliation.csv](task-2-curriculum-audit/credit-reconciliation.csv)
+- Job evidence: [task-2-curriculum-audit/job-description-comparison.csv](task-2-curriculum-audit/job-description-comparison.csv)
+- AI verification log: [task-2-curriculum-audit/ai-verification-log.csv](task-2-curriculum-audit/ai-verification-log.csv)
+- Feedback summary: [task-2-curriculum-audit/feedback-summary.md](task-2-curriculum-audit/feedback-summary.md)
+- Interactive tool: [task-2-curriculum-audit/interactive-tool/index.html](task-2-curriculum-audit/interactive-tool/index.html)
+- AI exercise pack: [task-2-curriculum-audit/ai-exercises](task-2-curriculum-audit/ai-exercises)
+- Source register: [sources/source-register.md](sources/source-register.md)
+- Curriculum verification note: [sources/official-curriculum-verification.md](sources/official-curriculum-verification.md)
+- Public job evidence: [sources/job-description-evidence.md](sources/job-description-evidence.md)
+
+## 3. Repository structure and navigation
 
 ### Root-level files
 
@@ -51,7 +81,7 @@ The draft is structurally strong and already separates the tasks, captures five 
 - [task-2-curriculum-audit/interactive-tool/index.html](task-2-curriculum-audit/interactive-tool/index.html)
 - [task-2-curriculum-audit/ai-exercises](task-2-curriculum-audit/ai-exercises) — prompt/output verification notes for five representative AI-assisted subject exercises
 
-## 3. Task 1 — workflow scenario, method and results
+## 4. Task 1 — workflow scenario, method and results
 
 Task 1 uses a hypothetical branch-library scenario: a member’s ID is checked and scanned; a due date is written on the book; the return is verified later; and the process is redesigned for mobile-friendly tracking, auditability and reduced manual error.
 
@@ -65,7 +95,7 @@ The report documents:
 
 The design emphasises that the workflow does not rely on unauthorised edits and that duplicate or stale issue records are prevented by a constrained state model. The time-savings estimate remains a scenario-based estimate rather than a measured institutional data point.
 
-## 4. Task 2 — curriculum baseline, proposal and evidence
+## 5. Task 2 — curriculum baseline, proposal and evidence
 
 Task 2 begins from a photographed curriculum table for “4.7.6. B.Tech in Computer Science & Engineering.” The course map preserves the visible semester totals and codes, and it explicitly flags the unresolved issues rather than silently correcting them.
 
@@ -78,7 +108,7 @@ Key points:
 
 The proposal therefore treats the curriculum as a provisional baseline. It recommends targeted updates to assessment depth and practical outcomes rather than radical credit changes, and it keeps the total credit count intended to remain constant while calling out the conditional elective reductions and approval requirements.
 
-## 5. Key calculations and unresolved credit discrepancy
+## 6. Key calculations and unresolved credit discrepancy
 
 The core issue is not a missing formula; it is an unresolved source mismatch.
 
@@ -90,7 +120,7 @@ The proposal file [task-2-curriculum-audit/credit-reconciliation.csv](task-2-cur
 
 This means the final percentage-affected calculation should be treated as provisional until the official batch-specific curriculum is verified.
 
-## 6. How to run the interactive tool
+## 7. How to run the interactive tool
 
 Open the file below in a browser and test the course filters and credit summary:
 
@@ -98,7 +128,7 @@ Open the file below in a browser and test the course filters and credit summary:
 
 If using a local server is preferred, run the folder from a static file server. The page is a lightweight, local comparison tool and is not a production-grade student information system.
 
-## 7. Evidence classification, privacy and AI-use policy
+## 8. Evidence classification, privacy and AI-use policy
 
 The package follows a conservative evidence approach:
 
@@ -115,7 +145,7 @@ The relevant policy records are:
 - [sources/official-curriculum-verification.md](sources/official-curriculum-verification.md)
 - [sources/job-description-evidence.md](sources/job-description-evidence.md)
 
-## 8. Personal contribution and limitations
+## 9. Personal contribution and limitations
 
 The package acknowledges the following limitations clearly:
 
@@ -132,7 +162,7 @@ The relevant files are:
 - [task-1-college-workflow/limitations.md](task-1-college-workflow/limitations.md)
 - [task-2-curriculum-audit/feedback-summary.md](task-2-curriculum-audit/feedback-summary.md)
 
-## 9. Sources and access dates
+## 10. Sources and access dates
 
 The relevant access log is maintained in:
 
@@ -140,7 +170,7 @@ The relevant access log is maintained in:
 
 The source register includes the curriculum photo and the public job pages used for the audit. The package does not claim any private college documents or internal faculty records.
 
-## 10. GitHub repository, release and commit metadata
+## 11. GitHub repository, release and commit metadata
 
 This repository has been published to GitHub and the final submission links are recorded below for auditability.
 
